@@ -1,12 +1,12 @@
 {
-    "name": "ctberdon/laravel-binary-uuid",
+    "name": "gigabooksite/laravel-binary-uuid",
     "description": "Binary support for UUIDs in Laravel Forked from spatie/laravel-binary-uuid",
     "keywords": [
         "ctberdon",
         "spatie",
         "laravel-binary-uuid"
     ],
-    "homepage": "https://github.com/ctberdon/laravel-binary-uuid",
+    "homepage": "https://github.com/gigabooksite/laravel-binary-uuid",
     "license": "MIT",
     "authors": [
         {
@@ -14,6 +14,14 @@
             "email": "brent@spatie.be",
             "homepage": "https://spatie.be",
             "role": "Developer"
+        },
+        {
+            "name": "Carmencito Berdon",
+            "email": "ctberdon@gmail.com"
+        },
+        {
+            "name": "Terence Jan Serencio",
+            "email": "terenceserencio@gmail.com"
         }
     ],
     "require": {
