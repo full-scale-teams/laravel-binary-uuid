@@ -1,5 +1,5 @@
 {
-    "name": "gigabooksite/laravel-binary-uuid",
+    "name": "full-scale-teams/laravel-binary-uuid",
     "description": "Binary support for UUIDs in Laravel Forked from spatie/laravel-binary-uuid",
     "keywords": [
         "ctberdon",
