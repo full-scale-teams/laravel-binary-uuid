@@ -6,7 +6,7 @@
         "spatie",
         "laravel-binary-uuid"
     ],
-    "homepage": "https://github.com/gigabooksite/laravel-binary-uuid",
+    "homepage": "https://github.com/full-scale-teams/laravel-binary-uuid",
     "license": "MIT",
     "authors": [
         {
